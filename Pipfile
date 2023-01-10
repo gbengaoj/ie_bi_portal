@@ -6,6 +6,7 @@ name = "pypi"
 [packages]
 streamlit = "*"
 openpyxl = "*"
+gunicorn = "*"
 
 [dev-packages]
 
