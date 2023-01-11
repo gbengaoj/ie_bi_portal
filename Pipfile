@@ -7,6 +7,7 @@ name = "pypi"
 streamlit = "*"
 openpyxl = "*"
 gunicorn = "*"
+streamlit-authenticator = "*"
 
 [dev-packages]
 
